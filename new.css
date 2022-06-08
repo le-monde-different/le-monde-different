@@ -1,0 +1,45 @@
+
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/js/v4-shims.min.js);
+.logo{
+    color:aqua;
+    font-size: 1.6em;
+    text-shadow: 06px 06px 06px ;
+padding-left: 10em;
+
+}
+body{
+background-color: blanchedalmond;
+
+}
+h1{
+    color: blue;
+    word-spacing: 0.6em;
+    
+}
+figure{
+    display:inline-table;
+    align-items: center; 
+}
+img{
+    width:  50%;
+    height: 50%;
+}
+
+mark{
+    background-color: burlywood;
+}
+figcaption{
+    padding-right: 1.5em;
+    outline-color: aquamarine;
+overflow: scroll;
+}
+p{
+    color: green;
+    font-size: 1.5em;
+   
+}
+footer{
+    font-size: small;
+    background-color: aliceblue;
+
+}
