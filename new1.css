@@ -1,0 +1,36 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+
+}
+h1{
+    color:blue;
+    font-size: large;
+    font-weight: bolder;
+    scroll-padding-top: 3em;
+    margin-top: 03em;
+    background-color: rgb(255, 20, 31)
+}
+ header{
+     margin-block: 2em;
+     display: flex;
+     justify-content: space-around;
+ }
+ #menu{
+     background-color: aquamarine;
+     background-repeat: space;
+
+ }
+ section{
+     display:flex;
+     flex-wrap: wrap;
+     padding: 12%;
+     flex-direction: row;
+    justify-content: space-between; 
+ }
+ #audi,#toyota,#volswagen,#renault,#nissan,#haval,
+ #jeep,#chery,#lexus,#kia,#sungyong,#porche{
+     padding: 1.6em;
+     align-self: flex-end;
+     
+ }
